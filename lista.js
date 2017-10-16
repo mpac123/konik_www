@@ -264,14 +264,6 @@ var excel = [
 		"opis": "KNN MELprop to koło zajmujące się napędami obecnymi w lotnictwie. Dwa główne nurty naszej pracy to silniki rakietowe oraz pulsacyjne - od projektu wstępnego aż do testów i optymalizacji wykonanej konstrukcji. Dodatkowo nasze prace obejmują również silniki turbinowe oraz samoloty bezzałogowe z napędem odrzutowym."
 	},
 	{
-		"nazwa": "Koło Naukowe Ochrony Środowiska",
-		"wydzial": "Wydział Instalacji Budowlanych, Hydrotechniki i Inżynierii Środowiska - WIBHiIŚ",
-		"id": "knos",
-		"strona": "http://knos.is.pw.edu.pl/",
-		"fb": "https://www.facebook.com/pwknos/",
-		"opis": "Edukacja społeczeństwa na tematy związane ze środowiskiem, udział w projektach."
-	},
-	{
 		"nazwa": "Koło Naukowe Projektowania i Konstrukcji",
 		"wydzial": "Wydział Mechatroniki - WM",
 		"id": "knpik",
@@ -301,7 +293,7 @@ var excel = [
 		"id": "bionik",
 		"strona": "bionik.ia.pw.edu.pl",
 		"fb": "https://www.facebook.com/KNR.Bionik/",
-		"opis": "Koło Naukowe Robotyki,,BIONIK’’ zaczęło swoją działalność w 2001 roku. Zrzeszamy studentów Politechniki Warszawskiej chcących poszerzać swoją wiedzę w dziedzinie robotyki mobilnej i manipulacyjnej. Realizujemy projekty zespołowe oraz indywidualne. Specjalizujemy się w robotach turniejowych (LineFollower, Sumo, MicroMouse). Tworzymy też większe systemy robotyczne, kładąc duży nacisk na autonomię ich działania. Organizujemy zawody robotów sportowych i bierzemy udział w wielu wydarzeniach popularyzujących naukę. Działamy pod patronatem Zespołu Programowania Robotów i Systemów Rozpoznających na Wydziale Elektroniki i Technik Informacyjnych Politechniki Warszawskiej."
+		"opis": "Koło Naukowe Robotyki,,BIONIK’’ zaczęło swoją działalność w 2001 roku. Zrzeszamy studentów Politechniki Warszawskiej chcących poszerzać swoją wiedzę w dziedzinie robotyki mobilnej i manipulacyjnej. Realizujemy projekty zespołowe oraz indywidualne. Specjalizujemy się w robotach turniejowych (LineFollower, Sumo, MicroMouse). Tworzymy też większe systemy robotyczne, kładąc duży nacisk na autonomię ich działania. Organizujemy zawody robotów sportowych i bierzemy udział w wielu wydarzeniach popularyzujących naukę. Działamy na Wydziale Elektroniki i Technik Informacyjnych Politechniki Warszawskiej."
 	},
 	{
 		"nazwa": "Koło Naukowe Robotyków",
@@ -310,14 +302,6 @@ var excel = [
 		"strona": "http://knr.meil.pw.edu.pl",
 		"fb": "www.facebook.com/kolo.naukowe.robotykow.knr",
 		"opis": "Obszar działalności Koła Naukowego Robotyków jest bardzo szeroki: studenci zajmują się nie tylko działaniami konstruktorskimi, ale również popularyzują kierunek Automatyka i Robotyka uczestnicząc w wielu imprezach naukowych i promocyjnych. Studenci zajmują się także działalnością dydaktyczną. Członków Koła Naukowego Robotyków można spotkać podczas zawodów konstrukcyjnych robotów zarówno w kraju jak i za granicą."
-	},
-	{
-		"nazwa": "Koło Naukowe Systemy Inteligentnych Budynków",
-		"wydzial": "Wydział Elektryczny - WE",
-		"id": "sib",
-		"strona": "http://sib.ee.pw.edu.pl/",
-		"fb": "https://www.facebook.com/kolonaukowesib/",
-		"opis": "Różnorodne projekty związane z automatyką budynkową, automatyką central wentylacyjnych itp. Uczestnictwo w projekcie związanym z inteligentnymi budynkami dla osób niepełnosprawnych umysłowo."
 	},
 	{
 		"nazwa": "Koło Naukowe Twórców Gier \"Polygon\"",
@@ -518,6 +502,14 @@ var excel = [
 		"strona": "http://sknen.itc.pw.edu.pl",
 		"fb": "https://www.facebook.com/SKNEN.PW/",
 		"opis": "Prowadzimy wiele projektów związanych z tematyką energetyki niekonwencjonalnej. Nasze główne zainteresowania to poszukiwanie możliwych do zastosowania rozwiązań w dobie wyczerpujących się zasobów paliw kopalnych oraz stale rosnącym zapotrzebowaniu na energię elektryczną jak i ciepło. Prowadzimy również liczne warsztaty edukacyjne oraz uczestniczymy w piknikach naukowych w celu promowania energetyki odnawialnej i ochrony środowiska."
+	},
+	{
+		"nazwa": "Studenckie Koło Naukowe Konsultingu IT",
+		"wydzial": "Wydział Elektryczny - WE",
+		"id": "sib",
+		"strona": "http://sknkonsultingu.it/",
+		"fb": "https://www.facebook.com/sknkonsultinguit/",
+		"opis": ""
 	},
 	{
 		"nazwa": "Studenckie Koło Naukowe Telekomunikacji w Transporcie",
